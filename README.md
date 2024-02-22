@@ -1,0 +1,2 @@
+# duhacks
+For group projects
